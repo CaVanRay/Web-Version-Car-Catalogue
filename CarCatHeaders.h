@@ -1,5 +1,6 @@
 #ifndef 
 #define CarCatHeaders_h
+#define CPPHTTPLIB_OPENSSL_SUPPORT 0
 //***********************************
 #include <algorithm>
 #include <iostream>
